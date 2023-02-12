@@ -1,5 +1,6 @@
 /* Simple Hello world Application
-done by Dejan Dmitrovic */
+*  @author Dejan Dmitrovic
+*/
 
 public class HelloWorld {
     public static void main(String[] args) {
