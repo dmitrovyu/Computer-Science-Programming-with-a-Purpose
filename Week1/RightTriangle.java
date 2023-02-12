@@ -1,3 +1,9 @@
+/* Simple app that takes 3 int arguments on input and checks if its a right triangle
+* Prints true/false on the terminal if its right triangle
+*  @author Dejan Dmitrovic
+*/
+
+
 public class RightTriangle {
     public static void main(String[] arg) {
         int x = Integer.parseInt(arg[0]);
