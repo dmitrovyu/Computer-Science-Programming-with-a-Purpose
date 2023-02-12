@@ -1,3 +1,8 @@
+/* Simple Hello world Application that takes two arguments - names and prints the Hello message on the terminal
+*  @author Dejan Dmitrovic
+*/
+
+
 public class HelloGoodbye {
     
     public static void main (String[] args){
