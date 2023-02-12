@@ -1,3 +1,10 @@
+/**************************
+* Takes four arguments on input for CMYK color, calculates and prints the same color as RGB.
+*
+* @author Dejan Dmitrovic
+***************************/
+
+
 public class CMYKtoRGB {
     public static void main(String[] arg) {
         double cyan = Double.parseDouble(arg[0]);
