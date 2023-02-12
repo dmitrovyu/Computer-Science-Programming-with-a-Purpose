@@ -1,3 +1,10 @@
+/************
+ *  Given the latitude and longitude (in degrees) of two points compute
+ *  the great circle distance in km between them. The
+ *  following formula assumes that sin, cos, and arcos are comptued
+ *  in degrees, so need to convert back and forth between radians.
+ * @author Dejan Dmitrovic
+*************/
 public class GreatCircle {
     
     public static void main(String[] arg) {
